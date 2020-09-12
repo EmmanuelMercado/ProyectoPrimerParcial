@@ -85,4 +85,5 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Test Helper loop API.vi" Type="VI" URL="../Test Helper loop API.vi"/>
 </Library>
